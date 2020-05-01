@@ -12,12 +12,18 @@ You'll need to complete each of the following steps:
 1. Build a support vector machine model
 
 Create a support vector machine classification model using scikit-learn's SVC and assign it to the variablemodel.
+
+
 2. Fit the model to the data
 
 If necessary, specify some of the hyperparameters. The goal is to obtain an accuracy of 100% in the dataset. Hint: Not every kernel will work well.
+
+
 3. Predict using the model
 
 Predict the labels for the training set, and assign this list to the variable y_pred.
+
+
 4. Calculate the accuracy of the model
 
 For this, use the function sklearn function accuracy_score.
